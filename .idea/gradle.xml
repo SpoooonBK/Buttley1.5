@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/third_party" />
+            <option value="$PROJECT_DIR$/third_party/andengine" />
+            <option value="$PROJECT_DIR$/third_party/andenginebox2d" />
           </set>
         </option>
       </GradleProjectSettings>

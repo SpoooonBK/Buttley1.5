@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Buttley1.5.iml" filepath="$PROJECT_DIR$/Buttley1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third_party/andengine/andengine.iml" filepath="$PROJECT_DIR$/third_party/andengine/andengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third_party/andenginebox2d/andenginebox2d.iml" filepath="$PROJECT_DIR$/third_party/andenginebox2d/andenginebox2d.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
