@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Buttley1.5</string>
+    <string name="app_name">Buttley1.1</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+
+
+
+    <string-array name="beanography_labels">
+        <item name="type">Type:</item>
+        <item name="home">Home:</item>
+        <item name="likes">Likes:</item>
+        <item name="dislikes">Dislikes:</item>
+        <item name="quote">Quote:</item>
+    </string-array>
+
+
+    <!-- beanography Strings -->
+
+    <!--Twerk-->
+    <string-array name="twerk">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Baked Jake-->
+    <string-array name="baked_jake">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Yogi-->
+    <string-array name="yogi">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Joe-->
+    <string-array name="joe">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Sharty-->
+    <string-array name="sharty">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+    <!--Silent but Deadly-->
+    <string-array name="silent_but_deadly">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+    <!--Dutch Oven-->
+    <string-array name="dutch_oven">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Air Biscuit-->
+    <string-array name="air_biscuit">
+        <item name="name">Air Biscuit</item>
+        <item name="air_biscuit_type">Pinto</item>
+        <item name="air_biscuit_home">JFK</item>
+        <item name="air_biscuit_likes">Wind tunnels</item>
+        <item name="air_biscuit_dislikes">Air Freshener</item>
+        <item name="air_biscuit_quote">Bombs Away</item>
+    </string-array>
+
+    <!--Edamama-->
+    <string-array name="edamama">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Baby-->
+    <string-array name="baby">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Bubba-->
+    <string-array name="bubba">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Dusty-->
+    <string-array name="dusty">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
+    <!--Holy Frijole-->
+    <string-array name="holy_frijole">
+        <item name="name"></item>
+        <item name="type"></item>
+        <item name="home"></item>
+        <item name="likes"></item>
+        <item name="dislikes"></item>
+    </string-array>
+
+
 
 </resources>
